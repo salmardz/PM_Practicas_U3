@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="P0_intro.asm" />
+    <MASM Include="P1_doble_triple.asm" />
+    <MASM Include="P2_area_perimetro.asm" />
+    <MASM Include="P3_salario.asm" />
+    <MASM Include="P4_sumaDigitos.asm" />
+    <MASM Include="P5_IMC.asm" />
+    <MASM Include="P6_leer_n_numeros.asm" />
+    <MASM Include="P7_matriz.asm" />
+    <MASM Include="P8_determinar_velocidad.asm" />
+    <MASM Include="P9_numeros_pares.asm" />
+    <MASM Include="P10_fibonacci.asm" />
+    <MASM Include="P11_N_primos.asm" />
+    <MASM Include="P12_suma_n_mayor.asm" />
+    <MASM Include="P13_tablas_multiplicar.asm" />
+    <MASM Include="P14_calificaciones.asm" />
+    <MASM Include="P15_valor_negativo.asm" />
+    <MASM Include="P16_contador_numeros.asm" />
+    <MASM Include="P17_N_par_inpar.asm" />
+    <MASM Include="P18_promedio.asm" />
+    <MASM Include="P19_bin_decimal.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MACROS.inc" />
+  </ItemGroup>
+</Project>
